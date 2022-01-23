@@ -2,13 +2,13 @@
 log of my 90 days of DSA challenge
 
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- DAY 1-15 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
-10 jan 2022 to 25 jan 2022
--array and some question on gfg
--recursion from freeCodeCamp
--basic questions of maths
--intro to bit manuplication
--Git and GitHub from freeCodeCammp
--Some topis from Udemy course {JavaScript Algorithms and Data Structures Masterclass} 
+10 jan 2022 to 25 jan 2022\
+-array and some question on gfg\
+-recursion from freeCodeCamp\
+-basic questions of maths\
+-intro to bit manuplication\
+-Git and GitHub from freeCodeCammp\
+-Some topis from Udemy course {JavaScript Algorithms and Data Structures Masterclass} \
 
 
 
