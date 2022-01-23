@@ -8,7 +8,7 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- DAY 1-15 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 -basic questions of maths\
 -intro to bit manuplication\
 -Git and GitHub from freeCodeCammp\
--Some topis from Udemy course {JavaScript Algorithms and Data Structures Masterclass} \
+-Some topis from Udemy course {JavaScript Algorithms and Data Structures Masterclass}\
 
 
 
